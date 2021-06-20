@@ -1,0 +1,24 @@
+{
+  "name": "lovely-cinema",
+  "version": "1.0.0",
+  "description": "Lovely Cinema is a layout draft from a platform demo of movies news or movies blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandosgodoy/lovely-cinema.git"
+  },
+  "keywords": [
+    "Movies",
+    "Cinema",
+    "Blog"
+  ],
+  "author": "Luiz Fernando de Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandosgodoy/lovely-cinema/issues"
+  },
+  "homepage": "https://github.com/fernandosgodoy/lovely-cinema#readme"
+}
