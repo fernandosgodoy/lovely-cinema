@@ -7,4 +7,42 @@ html {
 body {
     background: #f2f2f2;
     font-family: Arial,Sans-Serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5 { margin: 0 0 6px 0}
+
+input { 
+    border-radius: 5px;
+    min-height: 25px;
+ }
+
+.header {
+    /* background-color: #f5aeae; */
+    height: 128px;
+}
+
+.header .superior-header-content {
+    background-color: #f5aeae;
+    margin: 0 auto;
+    width: 1024px;
+}
+
+.header .superior-header-content .logo-place {
+    float: left;
+    margin: 0 20px;
+}
+
+.header .superior-header-content .search-box-area {
+    float: left;
+    margin: 0 20px;
+    padding: 5px;
+}   
+
+.header .superior-header-content .search-box-area .header-search {
+    border: none;
+    border-radius: .125rem 0 0 .125rem;
+    font-size: .75rem;
+    padding: .625rem .875rem;
 }
