@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/fernandosgodoy/lovely-cinema/issues"
   },
-  "homepage": "https://github.com/fernandosgodoy/lovely-cinema#readme"
+  "homepage": "https://github.com/fernandosgodoy/lovely-cinema#readme",
+  "devDependencies": {
+    "jquery": "^3.6.0"
+  }
 }
