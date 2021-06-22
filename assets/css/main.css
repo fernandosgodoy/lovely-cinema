@@ -26,13 +26,31 @@ input {
 .header .superior-header-content {
     /* background-color: #f5aeae; */
     margin: 0 auto;
+    margin-top: 10px;
     width: 1024px;
 }
 
 .header .superior-header-content .logo-place {
     float: left;
     margin: 0 20px;
-    width: 200px;
+    width: 250px;
+}
+
+.header .superior-header-content .logo-place .title-logo {
+    text-transform: uppercase;
+    font-size: 30px;
+    margin: 10px 0 0 0;
+    color: #ca0000;
+    font-weight: 700;
+    font-style: italic;
+    letter-spacing: -1.3px;
+    background: linear-gradient(to right, rgb(255, 210, 10), #ca0000, #ca0000, #ca0000, #ca0000);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.header .superior-header-content .logo-place .subtitle {
+    font-weight: 300;
 }
 
 .header .superior-header-content .search-box-area {
