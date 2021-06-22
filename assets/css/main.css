@@ -19,12 +19,10 @@ input {
  }
 
 .header {
-    /* background-color: #f5aeae; */
     height: 128px;
 }
 
 .header .superior-header-content {
-    /* background-color: #f5aeae; */
     margin: 0 auto;
     margin-top: 10px;
     width: 1024px;
@@ -68,6 +66,14 @@ input {
     width: 100%;
     min-height: 0;
     height: 17px;
+}
+
+.header .superior-header-content .search-box-area .help-search {
+    font-size: .70rem;
+    left: -30px;
+    position: relative;
+    top: 0;
+    color: #999;
 }
 
 /* 
